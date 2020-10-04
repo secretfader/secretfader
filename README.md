@@ -7,10 +7,14 @@ elegant software.
 
 ### Professional Interests :briefcase:
 
-When I'm not writing code or debugging applications, I can often be found
-[authoring technical blog entries](https://www.secretfader.com), working to
-[build communities through events](https://www.cogoldrust.com), or mentoring
-the next generation of engineers one-on-one at a local makerspace.
+I can trace my interest in engineering and education to the Amateur Radio study
+group I formed with several friends in middle school, which resulted in most of
+us earning our licenses, myself included.
+
+Today, I continue that tradition of sharing knowledge by [authoring technical blog
+entries](https://www.secretfader.com), working to [build communities through
+events](https://www.cogoldrust.com), or mentoring the next generation of
+engineers one-on-one at a local makerspace.
 
 ### Have a question? :mag:
 
