@@ -21,3 +21,7 @@ Want to know how I performed a specific task or which Neovim color scheme I'm
 currently using? Most of my personal configuration is included in the
 [`ops`](https://github.com/secretfader/ops) repository. If that doesn't answer
 your inquiry, reach out via email (available on my profile and in Git history).
+
+### Stats
+
+[![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=secretfader)](https://github.com/secretfader)
