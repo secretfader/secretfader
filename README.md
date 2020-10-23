@@ -2,7 +2,7 @@
 
 I'm a Senior Engineer, educator, conference speaker, and event organizer
 currently living in Denver, Colorado. I work with Rust, TypeScript, Elixir,
-Node.js, Kubernetes, and a whole host of other tools to build reliable and
+JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable and
 elegant software.
 
 ### Professional Interests :briefcase:
