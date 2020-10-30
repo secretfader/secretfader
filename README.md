@@ -13,7 +13,7 @@ us earning our licenses, myself included. Today, I continue that tradition of
 sharing knowledge by [authoring technical blog
 entries](https://www.secretfader.com), working to [build communities through
 events](https://www.cogoldrust.com), and mentoring the next generation of
-engineers one-on-one at a local makerspace.
+engineers one-on-one at local events and makerspaces.
 
 ### Have a question? :mag:
 
