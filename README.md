@@ -17,7 +17,9 @@ engineers one-on-one at local events and makerspaces.
 
 ### Have a question? :mag:
 
-Want to know how I performed a specific task or which Neovim color scheme I'm
+My primary development environment is [Neovim][vim] running inside [`tmux`][tmux], usually on my [Fedora]-powered [Lenovo ThinkPad X1 Carbon][thinkpad-x1]. :computer: When at the desk, I use a [WASD VP3 61-key mechanical keyboard with Cherry MX Brown switches][keyboard]. :keyboard:
+
+Want to know how I performed a specific task or which color scheme I'm
 currently using? Most of my personal configuration is included in the
 [`ops`](https://github.com/secretfader/ops) repository. If that doesn't answer
 your inquiry, reach out via email (available on my profile and in Git history).
@@ -25,3 +27,9 @@ your inquiry, reach out via email (available on my profile and in Git history).
 ### Stats
 
 [![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=secretfader)](https://github.com/secretfader)
+
+[vim]: https://neovim.io
+[tmux]: https://github.com/tmux/tmux
+[fedora]: https://getfedora.org
+[thinkpad-x1]: https://www.secretfader.com/blog/2019/02/lenovo-thinkpad-x1-carbon-all-business/
+[keyboard]: https://www.wasdkeyboards.com/wasd-vp3-61-key-custom-mechanical-keyboard.html
