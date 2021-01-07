@@ -17,6 +17,10 @@ entries](https://www.secretfader.com), working to [build communities through
 events](https://www.cogoldrust.com), and mentoring the next generation of
 engineers one-on-one at local events and makerspaces.
 
+## Offline :sunrise_over_mountains: :biking_man:
+
+When I'm not working, I enjoy a number of outdoor sports, not the least of which is riding my Catrike Trail recumbent tricycle, and taking hikes in the beautiful Rocky Mountains with my family.
+
 ### Have a question? :mag:
 
 My primary development environment is [Neovim][vim] running inside [`tmux`][tmux], usually on my [Fedora]-powered [Lenovo ThinkPad X1 Carbon][thinkpad-x1]. :computer: When at the desk, I use a [Moonlander Mark I keyboard from ZSA with Kailh Box Brown switches][keyboard]. :keyboard:
