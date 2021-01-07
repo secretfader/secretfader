@@ -7,6 +7,8 @@ elegant software and products that users love.
 
 ### Professional Interests :briefcase:
 
+While I enjoy writing Rust code, I get the most enjoyment out of teaching, both as a speaker and one-on-one. Subjects of interest include reverse engineering, wireless security, and graphics rendering.
+
 I can trace my interest in engineering and education to the Amateur Radio study
 group I formed with several friends in middle school, which resulted in most of
 us earning our licenses, myself included. Today, I continue that tradition of
