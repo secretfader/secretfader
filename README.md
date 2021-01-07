@@ -1,9 +1,9 @@
 ## Greetings, I'm Nicholas. :wave:
 
 I'm a Senior Engineer, educator, conference speaker, and event organizer
-currently living in Denver, Colorado. I work with Rust, TypeScript, Elixir,
-JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable and
-elegant software.
+currently living near Denver, Colorado. I work with Rust, TypeScript, Elixir,
+JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable,
+elegant software and products that users love.
 
 ### Professional Interests :briefcase:
 
