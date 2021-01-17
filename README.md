@@ -23,15 +23,15 @@ When I'm not working, I enjoy a number of outdoor sports, not the least of which
 
 ### Have a question? :mag:
 
-My primary development environment is [Neovim][vim] running inside [`tmux`][tmux], usually on my [Fedora]-powered [Lenovo ThinkPad X1 Carbon][thinkpad-x1]. :computer: When at the desk, I use a [Moonlander Mark I keyboard from ZSA with Kailh Box Brown switches][keyboard]. :keyboard:
+My primary development environment is [VSCodium][vscodium] with the excellent [VSCode Vim extension][vscode-vim], usually running on my [Fedora]-powered [Lenovo ThinkPad X1 Carbon][thinkpad-x1]. :computer: When at the desk, I use a [Moonlander Mark I keyboard from ZSA with Kailh Box Brown switches][keyboard]. :keyboard:
 
 Want to know how I performed a specific task or which color scheme I'm
 currently using? Most of my personal configuration is included in the
 [`ops`](https://github.com/secretfader/ops) repository. If that doesn't answer
 your inquiry, reach out via email (available on my profile and in Git history).
 
-[vim]: https://neovim.io
-[tmux]: https://github.com/tmux/tmux
+[vscodium]:  https://github.com/VSCodium/vscodium
+[vscode-vim]: https://github.com/VSCodeVim/Vim
 [fedora]: https://getfedora.org
 [thinkpad-x1]: https://www.secretfader.com/blog/2019/02/lenovo-thinkpad-x1-carbon-all-business/
 [keyboard]: https://www.zsa.io/moonlander/
