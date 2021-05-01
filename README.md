@@ -19,7 +19,7 @@ engineers one-on-one at local events and makerspaces.
 
 ## Offline :sunrise_over_mountains: :biking_man:
 
-When I'm not working, I enjoy a number of outdoor sports, not the least of which is riding my Catrike Trail recumbent tricycle, and taking hikes in the beautiful Rocky Mountains with my family.
+When I'm not working, I enjoy a number of outdoor sports, not the least of which is [riding my Catrike Trail recumbent tricycle][cycling], and taking hikes in the beautiful Rocky Mountains with my family.
 
 ### Have a question? :mag:
 
@@ -33,3 +33,4 @@ currently using? Reach out via email (available on my profile and in Git history
 [fedora]: https://getfedora.org
 [thinkpad-x1]: https://www.secretfader.com/blog/2019/02/lenovo-thinkpad-x1-carbon-all-business/
 [keyboard]: https://www.zsa.io/moonlander/
+[cycling]: https://www.secretfader.com/blog/category/cycling/
