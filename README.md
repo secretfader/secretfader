@@ -26,9 +26,7 @@ When I'm not working, I enjoy a number of outdoor sports, not the least of which
 My primary development environment is [VSCodium][vscodium] with the excellent [VSCode Vim extension][vscode-vim], usually running on my [Fedora]-powered [Lenovo ThinkPad X1 Carbon][thinkpad-x1]. :computer: When at the desk, I use a [Moonlander Mark I keyboard from ZSA with Kailh Box Brown switches][keyboard]. :keyboard:
 
 Want to know how I performed a specific task or which color scheme I'm
-currently using? Most of my personal configuration is included in the
-[`ops`](https://github.com/secretfader/ops) repository. If that doesn't answer
-your inquiry, reach out via email (available on my profile and in Git history).
+currently using? Reach out via email (available on my profile and in Git history).
 
 [vscodium]:  https://github.com/VSCodium/vscodium
 [vscode-vim]: https://github.com/VSCodeVim/Vim
