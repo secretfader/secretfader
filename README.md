@@ -14,7 +14,7 @@ group I formed with several friends in middle school, which resulted in most of
 us earning our licenses, myself included. Today, I continue that tradition of
 sharing knowledge by [authoring technical blog
 entries](https://www.secretfader.com), working to [build communities through
-events](https://www.cogoldrust.com), and mentoring the next generation of
+events][cogoldrust], and mentoring the next generation of
 engineers one-on-one at local events and makerspaces.
 
 ## Offline :sunrise_over_mountains: :biking_man:
@@ -34,3 +34,4 @@ currently using? Reach out via email (available on my profile and in Git history
 [thinkpad-x1]: https://www.secretfader.com/blog/2019/02/lenovo-thinkpad-x1-carbon-all-business/
 [keyboard]: https://www.zsa.io/moonlander/
 [cycling]: https://www.secretfader.com/blog/category/cycling/
+[cogoldrust]: https://web.archive.org/web/20200814194034/cogoldrust.com
