@@ -1,9 +1,9 @@
 ## Greetings, I'm Nicholas. :wave:
 
-I'm a Senior Engineer, educator, conference speaker, and event organizer
-currently living near Denver, Colorado. I work with Rust, TypeScript, Elixir,
+I'm a technical director, educator, conference speaker, and event organizer
+currently living near Denver, Colorado. I work with Rust, Substrate, TypeScript, Elixir,
 JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable,
-elegant software and products that users love.
+elegant software and products that users love. I am currently serving as Director of Information Security and DevOps at @NodleCode.
 
 ### Professional Interests :briefcase:
 
