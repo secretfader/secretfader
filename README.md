@@ -15,7 +15,7 @@ Today, I continue that tradition of sharing knowledge by [authoring technical bl
 
 ## Offline :sunrise_over_mountains: :biking_man:
 
-When I'm not working, I enjoy a number of outdoor sports, not the least of which is [riding my Catrike Trail recumbent tricycle][cycling], running, and taking hikes in the beautiful Rocky Mountains with my family.
+When I'm not working, I enjoy a number of outdoor sports, not the least of which is [riding my Catrike Trail recumbent tricycle][cycling], [running](https://www.instagram.com/p/CmEu7YjuGpx/), or on a hike in the beautiful Rocky Mountains with my family.
 
 ### Have a question? :mag:
 
