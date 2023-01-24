@@ -3,7 +3,7 @@
 I'm a technical director, educator, conference speaker, and event organizer
 currently living near Denver, Colorado. I work with Rust, Substrate, TypeScript, Elixir,
 JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable,
-elegant software and products that users love. I am currently serving as Director of Information Security and DevOps at @NodleCode.
+elegant software and products that users love. I am currently serving as Director of Information Security and DevOps at [Nodle](https://github.com/NodleCode), the distributed, low-power RF network powered by Polkadot.
 
 ### Professional Interests :briefcase:
 
