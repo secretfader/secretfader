@@ -7,7 +7,7 @@ elegant software and products that users love. I'm most proud of my work as [Dir
 
 ### Professional Interests :briefcase:
 
-While I enjoy writing Rust code, I'm at my happiest when helping others achieve their technical goals. I enjoy teaching, both as a speaker and one-on-one. Subjects of interest include reverse engineering, network security, radio transmitter hunting, public safety communications, and graphics rendering.
+While I enjoy writing or auditing Rust or Terraform code, I'm at my happiest when helping others achieve their technical goals. I enjoy teaching, both as a speaker and one-on-one. Subjects of interest include reverse engineering, network security, radio transmitter hunting, public safety communications, and graphics rendering.
 
 I can trace my interest in engineering and education to the Amateur Radio study group I formed with several friends in middle school, which resulted in most of us earning our licenses, myself included. 
 
