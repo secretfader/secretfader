@@ -1,10 +1,9 @@
 ## Greetings, I'm Nicholas. :wave:
 
-I'm a Director of Information Security, educator, conference speaker, athlete, and event organizer currently living near Denver, Colorado. 
+I'm a senior technologist, educator, conference speaker, athlete, and event organizer currently living near Denver, Colorado. 
 
-I work with Rust, Substrate, TypeScript, Elixir,
-JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable,
-elegant software and products that users love. I am currently serving as Director of Information Security and DevOps at [Nodle](https://github.com/NodleCode), the eco-friendly [Decentralized Physical Infrastructure Network (DePIN)](https://messari.io/report/the-depin-sector-map) powered by Polkadot.
+I work with Rust, Substrate, TypeScript, Elixir, JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable,
+elegant software and products that users love. I'm most proud of my work as [Director of Information Security for the Polkadot Network's 11th Parachain](https://resume.secretfader.com).
 
 ### Professional Interests :briefcase:
 
@@ -23,7 +22,6 @@ When I'm not working, I enjoy a number of outdoor sports, not the least of which
 My primary development environment is Visual Studio Code / Vim, usually running on my M1 Max MacBook Pro. When at the desk, I use a [Moonlander Mark I keyboard from ZSA with Kailh Box Brown switches][keyboard]. :keyboard:
 
 Want to know how I performed a specific task or which color scheme I'm currently using? Reach out via email (available on my profile and in Git history).
-
 
 [keyboard]: https://www.zsa.io/moonlander/
 [cycling]: https://www.secretfader.com/blog/category/cycling/
