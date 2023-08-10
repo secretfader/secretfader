@@ -3,7 +3,7 @@
 I'm a senior technologist, educator, conference speaker, athlete, and event organizer currently living near Denver, Colorado. 
 
 I work with Rust, Substrate, TypeScript, Elixir, JavaScript, GraphQL, Kubernetes, Ethereum, private blockchain frameworks, and a whole host of other tools to build reliable,
-elegant software and products that users love. I'm most proud of my work as [Director of Information Security for the Polkadot Network's 11th Parachain](https://resume.secretfader.com). A majority of my open source contributions over the last few years landed in the [`rust-lang`](https://rust-lang.org) project.
+elegant software and products that users love. I'm most proud of my work as [Director of Information Security for the Polkadot Network's 11th Parachain](https://resume.secretfader.com). A majority of my open source contributions over the last few years landed in the [`rust-lang`](https://rust-lang.org) project and ecosystem crates.
 
 ### Professional Interests :briefcase:
 
