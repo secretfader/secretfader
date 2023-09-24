@@ -19,7 +19,7 @@ When I'm not working, I enjoy a number of outdoor sports, not the least of which
 
 ### Have a question? :mag:
 
-My primary development environment is Visual Studio Code / Vim, usually running on my M1 Max MacBook Pro. When at the desk, I use a [Moonlander Mark I keyboard from ZSA with Kailh Box Brown switches][keyboard]. :keyboard:
+My primary development environment is Visual Studio Code (with the Vim extension), usually running on my M1 Max MacBook Pro. When at the desk, I use a [Voyager keyboard from ZSA with Kailh Choc Brown switches][keyboard]. :keyboard:
 
 Want to know how I performed a specific task or which color scheme I'm currently using? Reach out via email (available on my profile and in Git history).
 
