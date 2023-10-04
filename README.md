@@ -6,7 +6,7 @@ I'm a senior technologist, educator, conference speaker, athlete, and event orga
 
 Teaching is a passion, both as a speaker or one-on-one. Subjects of interest include reverse engineering, network security, radio transmitter hunting, public safety communications, and graphics rendering. I can trace my interest in engineering and education to the Amateur Radio study group I formed with several friends in middle school, which resulted in most of us earning our licenses, myself included. 
 
-Today, I continue that tradition of sharing knowledge by [authoring technical blog entries](https://www.secretfader.com), working to [build communities through events][cogoldrust], and mentoring the next
+Today, I continue that tradition of sharing knowledge by [authoring technical blog entries](https://www.secretfader.com), working to [build communities through events][cogoldrust], and mentoring the next generation of responsible engineers at local makerspaces. 🤝
 
 ## Offline :sunrise_over_mountains: :biking_man:
 
